@@ -17,7 +17,8 @@
   "devDependencies": {
     "auto-reload-brunch": "^2",
     "brunch": "^2",
-    "clean-css-brunch": "^2",
+    "clean-css-brunch": "^2.10.0",
+    "html-pages-brunch": "^2.6.0",
     "uglify-js-brunch": "^2"
   }
 }
